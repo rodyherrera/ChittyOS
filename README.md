@@ -50,7 +50,7 @@ python3 Tools/Helper.py Fast-ReBuild-And-Run
 Then if you execute the following series of commands, whether you are on MacOS or Linux you will already have the operating system running on the virtual machine, remember that this software along with the steps have only been tested in Linux Mint.
 ```bash
 # Clone repository
-https://github.com/codewithrodi/ChittyOS/
+git https://github.com/codewithrodi/ChittyOS/
 
 # Enter to project directory
 cd ChittyOS
