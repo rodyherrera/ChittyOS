@@ -1,6 +1,6 @@
 # Chitty Operating System
 ##### A basic and minimal operating system
-###### Just tested in Linux Mint
+##### Just tested in Linux Mint
 ChittyOS is an operating system which was written to test my programming skills in the C language, no contributions or solutions to its bugs are expected although it is likely that I will receive a couple of updates when I have time, ChittyOS will just be one of my hobbies and my first step in this world of operating systems development.
 
 You can experiment or learn how this works internally, I have commented most of the operating system code, I hope it is not a problem so that you can do what you want and do black, red and purple magic with this!
