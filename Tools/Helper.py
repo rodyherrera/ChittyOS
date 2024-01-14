@@ -5,7 +5,7 @@
 # *
 # * =+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
 # *
-# * For related information - https://github.com/rodiihernandezz/ChittyOS/
+# * For related information - https://github.com/rodyherrera/ChittyOS/
 # *
 # * = This project has been done for no profit and just to test
 # * = my knowledge and skills, no contributions or bug fixes are expected.

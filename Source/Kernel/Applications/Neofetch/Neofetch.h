@@ -5,7 +5,7 @@
  *
  * =+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
  *
- * For related information - https://github.com/codewithrodi/ChittyOS/
+ * For related information - https://github.com/rodyherrera/ChittyOS/
  * 
  * = This project has been done for no profit and just to test 
  * = my knowledge and skills, no contributions or bug fixes are expected.
@@ -48,7 +48,7 @@ void CKNeofetch(){
     KernelPrintString("Theme: ");
     KernelPrintString(ChittyTheme);
     SetCursorPosition(23, 22);
-    KernelPrintString("https://github.com/codewithrodi/");
+    KernelPrintString("https://github.com/rodyherrera/");
     SetCursorPosition(23, 23);
     KernelPrintString("Remember drink much water bby <3.");
     SetCursorPosition(0, 24);

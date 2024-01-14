@@ -5,7 +5,7 @@
 ; *
 ; * =+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
 ; *
-; * For related information - https://github.com/codewithrodi/ChittyOS/
+; * For related information - https://github.com/rodyherrera/ChittyOS/
 ; *
 ; * = This project has been done for no profit and just to test 
 ; * = my knowledge and skills, no contributions or bug fixes are expected.
@@ -37,7 +37,7 @@ kStackOffset db 9000
 ; * Message that will be displayed when the kernel is loading.
 
 ; * Message that will be displayed when starting in Real Mode using 16 bit
-kRealModeMessage db "https://github.com/codewithrodi/ChittyOS/", 0
+kRealModeMessage db "https://github.com/rodyherrera/ChittyOS/", 0
 
 ; * Message to be displayed when starting in 32 bit protected mode
 kProtectedModeMessage db "32-BIT Protection Mode.", 0
